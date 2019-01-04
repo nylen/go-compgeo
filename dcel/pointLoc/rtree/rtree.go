@@ -6,7 +6,7 @@ import (
 	compgeo "github.com/200sc/go-compgeo"
 	"github.com/200sc/go-compgeo/dcel"
 	"github.com/200sc/go-compgeo/geom"
-	"github.com/sythe2o0/rtreego"
+	"github.com/Sythe2o0/rtreego"
 )
 
 func DCELtoRtree(dc *dcel.DCEL) *Rtree {
