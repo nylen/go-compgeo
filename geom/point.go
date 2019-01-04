@@ -3,7 +3,7 @@ package geom
 import (
 	"math"
 
-	"github.com/200sc/go-compgeo/printutil"
+	"github.com/nylen/go-compgeo/printutil"
 )
 
 const (

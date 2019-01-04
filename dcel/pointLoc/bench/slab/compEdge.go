@@ -1,9 +1,9 @@
 package slab
 
 import (
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
-	"github.com/200sc/go-compgeo/search"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/search"
 )
 
 type face struct {

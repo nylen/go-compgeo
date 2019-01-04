@@ -1,6 +1,6 @@
 package trapezoid
 
-import "github.com/200sc/go-compgeo/geom"
+import "github.com/nylen/go-compgeo/geom"
 
 // NewTrapNode returns a leaf node holding a trapezoid
 func NewTrapNode(tr *Trapezoid) *Node {

@@ -4,12 +4,12 @@
 package kirkpatrick
 
 import (
-	compgeo "github.com/200sc/go-compgeo"
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/dcel/pointLoc"
-	"github.com/200sc/go-compgeo/dcel/pointLoc/monotone"
-	"github.com/200sc/go-compgeo/dcel/pointLoc/trapezoid"
-	"github.com/200sc/go-compgeo/geom"
+	compgeo "github.com/nylen/go-compgeo"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/dcel/pointLoc"
+	"github.com/nylen/go-compgeo/dcel/pointLoc/monotone"
+	"github.com/nylen/go-compgeo/dcel/pointLoc/trapezoid"
+	"github.com/nylen/go-compgeo/geom"
 )
 
 //Triangulation method constant

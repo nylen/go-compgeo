@@ -3,8 +3,8 @@ package monotone
 import (
 	"errors"
 
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/dcel/pointLoc"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/dcel/pointLoc"
 )
 
 // Triangulate uses Monotonization to convert a dcel into

@@ -1,4 +1,4 @@
-module github.com/200sc/go-compgeo
+module github.com/nylen/go-compgeo
 
 require (
 	github.com/200sc/go-dist v0.0.0-20180217184639-8bdf90fe4b02 // indirect

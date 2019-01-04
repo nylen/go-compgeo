@@ -2,7 +2,7 @@
 
 package pointLoc
 
-import "github.com/200sc/go-compgeo/dcel"
+import "github.com/nylen/go-compgeo/dcel"
 
 // LocatesPoints is an interface to represent point location
 // queries.

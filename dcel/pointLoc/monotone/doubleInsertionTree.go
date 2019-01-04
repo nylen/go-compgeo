@@ -1,12 +1,12 @@
 package monotone
 
 import (
-	compgeo "github.com/200sc/go-compgeo"
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/dcel/pointLoc"
-	"github.com/200sc/go-compgeo/geom"
-	"github.com/200sc/go-compgeo/search"
-	"github.com/200sc/go-compgeo/search/tree"
+	compgeo "github.com/nylen/go-compgeo"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/dcel/pointLoc"
+	"github.com/nylen/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/search"
+	"github.com/nylen/go-compgeo/search/tree"
 )
 
 // DoubleIntervalTree converts a monotonized f into a

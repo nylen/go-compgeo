@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/200sc/go-compgeo/search"
+	"github.com/nylen/go-compgeo/search"
 )
 
 var (

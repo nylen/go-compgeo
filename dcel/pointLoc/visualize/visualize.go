@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"image/color"
 
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
 
 	"github.com/oakmound/oak/physics"
 	"github.com/oakmound/oak/render"

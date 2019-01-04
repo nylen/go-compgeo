@@ -2,7 +2,7 @@
 
 package static
 
-import "github.com/200sc/go-compgeo/search"
+import "github.com/nylen/go-compgeo/search"
 
 // Static is separated from the rest of tree
 // because otherwise most of its types and functions

@@ -3,9 +3,9 @@ package rtree
 import (
 	"fmt"
 
-	compgeo "github.com/200sc/go-compgeo"
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
+	compgeo "github.com/nylen/go-compgeo"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
 	"github.com/Sythe2o0/rtreego"
 )
 

@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/200sc/go-compgeo/printutil"
-	"github.com/200sc/go-compgeo/search"
+	"github.com/nylen/go-compgeo/printutil"
+	"github.com/nylen/go-compgeo/search"
 	"github.com/stretchr/testify/assert"
 )
 

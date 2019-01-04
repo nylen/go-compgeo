@@ -1,6 +1,6 @@
 package static
 
-import "github.com/200sc/go-compgeo/search"
+import "github.com/nylen/go-compgeo/search"
 
 // Node is a data structures which
 // just contain a key and value

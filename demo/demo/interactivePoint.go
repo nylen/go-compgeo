@@ -7,7 +7,7 @@ import (
 	"github.com/oakmound/oak/event"
 	"github.com/oakmound/oak/mouse"
 	"github.com/oakmound/oak/render"
-	"github.com/200sc/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/dcel"
 )
 
 // InteractivePoint is a struct to wrap around dcel points

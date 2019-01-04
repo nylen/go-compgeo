@@ -1,6 +1,6 @@
 package dcel
 
-import "github.com/200sc/go-compgeo/geom"
+import "github.com/nylen/go-compgeo/geom"
 
 // Bounds on a DCEL returns a Span calculated
 // from every point in the DCEL.

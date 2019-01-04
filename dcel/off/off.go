@@ -3,7 +3,7 @@
 // C++ code, http://www.holmes3d.net/graphics/offfiles/
 package off
 
-import "github.com/200sc/go-compgeo/geom"
+import "github.com/nylen/go-compgeo/geom"
 
 func NewOFF() OFF {
 	return OFF{

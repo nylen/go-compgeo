@@ -7,12 +7,12 @@ import (
 
 	"golang.org/x/sync/syncmap"
 
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/dcel/pointLoc/bruteForce"
-	"github.com/200sc/go-compgeo/dcel/pointLoc/kirkpatrick"
-	"github.com/200sc/go-compgeo/dcel/pointLoc/slab"
-	"github.com/200sc/go-compgeo/dcel/pointLoc/trapezoid"
-	"github.com/200sc/go-compgeo/search/tree"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/dcel/pointLoc/bruteForce"
+	"github.com/nylen/go-compgeo/dcel/pointLoc/kirkpatrick"
+	"github.com/nylen/go-compgeo/dcel/pointLoc/slab"
+	"github.com/nylen/go-compgeo/dcel/pointLoc/trapezoid"
+	"github.com/nylen/go-compgeo/search/tree"
 	"github.com/oakmound/oak/event"
 	"github.com/oakmound/oak/mouse"
 	"github.com/oakmound/oak/render"

@@ -2,7 +2,7 @@ package demo
 
 import (
 	"github.com/oakmound/oak"
-	"github.com/200sc/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/geom"
 	"github.com/oakmound/oak/event"
 	"github.com/oakmound/oak/mouse"
 )

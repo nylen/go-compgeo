@@ -1,8 +1,8 @@
 package trapezoid
 
 import (
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
 )
 
 func mapMultipleCase(trs []*Trapezoid, fe geom.FullEdge, faces [2]*dcel.Face) {

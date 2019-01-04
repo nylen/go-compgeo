@@ -1,6 +1,6 @@
 package geom
 
-import compgeo "github.com/200sc/go-compgeo"
+import compgeo "github.com/nylen/go-compgeo"
 
 // FullEdge is (eventually) a span
 // across two arbitrary points

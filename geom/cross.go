@@ -1,6 +1,6 @@
 package geom
 
-import "github.com/200sc/go-compgeo/search"
+import "github.com/nylen/go-compgeo/search"
 
 // Dot2D returns the dot product
 // of two 2d elements.

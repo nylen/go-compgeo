@@ -5,9 +5,9 @@ import (
 
 	"fmt"
 
-	"github.com/200sc/go-compgeo/geom"
-	"github.com/200sc/go-compgeo/printutil"
-	"github.com/200sc/go-compgeo/search"
+	"github.com/nylen/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/printutil"
+	"github.com/nylen/go-compgeo/search"
 )
 
 // FullPersistentBST is an implementation of a persistent

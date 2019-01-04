@@ -3,9 +3,9 @@ package dcel
 import (
 	"fmt"
 
-	compgeo "github.com/200sc/go-compgeo"
-	"github.com/200sc/go-compgeo/geom"
-	"github.com/200sc/go-compgeo/search"
+	compgeo "github.com/nylen/go-compgeo"
+	"github.com/nylen/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/search"
 )
 
 // An Edge represents an edge within a DCEL,

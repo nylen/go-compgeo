@@ -3,7 +3,7 @@ package printutil
 import (
 	"fmt"
 
-	"github.com/200sc/go-compgeo/search"
+	"github.com/nylen/go-compgeo/search"
 )
 
 // String converts any search.Comparable to

@@ -1,8 +1,8 @@
 package monotone
 
 import (
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
 )
 
 // VertexType Const

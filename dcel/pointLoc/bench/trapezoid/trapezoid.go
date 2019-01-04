@@ -5,9 +5,9 @@ package trapezoid
 
 import (
 	"github.com/oakmound/oak/physics"
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
-	"github.com/200sc/go-compgeo/printutil"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/printutil"
 )
 
 // These constants refer to indices

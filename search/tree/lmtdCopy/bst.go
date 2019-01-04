@@ -3,8 +3,8 @@ package lmtdCopy
 // import (
 // 	"errors"
 
-// 	"github.com/200sc/go-compgeo/search"
-// 	"github.com/200sc/go-compgeo/search/tree/static"
+// 	"github.com/nylen/go-compgeo/search"
+// 	"github.com/nylen/go-compgeo/search/tree/static"
 // )
 
 // func nopNode(n *node) *node {

@@ -1,6 +1,6 @@
 package trapezoid
 
-import "github.com/200sc/go-compgeo/geom"
+import "github.com/nylen/go-compgeo/geom"
 
 // NewY returns a Y-Node at edge e
 func NewY(e geom.FullEdge) *Node {

@@ -5,8 +5,8 @@ import (
 	"io"
 	"os"
 
-	compgeo "github.com/200sc/go-compgeo"
-	"github.com/200sc/go-compgeo/dcel"
+	compgeo "github.com/nylen/go-compgeo"
+	"github.com/nylen/go-compgeo/dcel"
 )
 
 // Decode converts an OFF struct into a dcel.

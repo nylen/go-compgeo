@@ -1,6 +1,6 @@
 package trapezoid
 
-import "github.com/200sc/go-compgeo/geom"
+import "github.com/nylen/go-compgeo/geom"
 
 // NewX returns an X-Node at point P
 func NewX(p geom.D3) *Node {

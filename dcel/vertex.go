@@ -1,8 +1,8 @@
 package dcel
 
 import (
-	compgeo "github.com/200sc/go-compgeo"
-	"github.com/200sc/go-compgeo/geom"
+	compgeo "github.com/nylen/go-compgeo"
+	"github.com/nylen/go-compgeo/geom"
 )
 
 // A Vertex is a Point which knows its outEdge.

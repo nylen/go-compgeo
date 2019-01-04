@@ -5,7 +5,7 @@ package main
 import (
 	"log"
 
-	"github.com/200sc/go-compgeo/demo/demo"
+	"github.com/nylen/go-compgeo/demo/demo"
 
 	"github.com/oakmound/oak"
 )

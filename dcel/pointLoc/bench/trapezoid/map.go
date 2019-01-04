@@ -3,8 +3,8 @@ package trapezoid
 import (
 	"math/rand"
 
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
 )
 
 var (

@@ -1,10 +1,10 @@
 package trapezoid
 
 import (
-	compgeo "github.com/200sc/go-compgeo"
-	"github.com/200sc/go-compgeo/dcel"
-	"github.com/200sc/go-compgeo/geom"
-	"github.com/200sc/go-compgeo/printutil"
+	compgeo "github.com/nylen/go-compgeo"
+	"github.com/nylen/go-compgeo/dcel"
+	"github.com/nylen/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/printutil"
 )
 
 // A Node is a node in a tree structure

@@ -3,7 +3,7 @@ package dcel
 import (
 	"sort"
 
-	"github.com/200sc/go-compgeo/geom"
+	"github.com/nylen/go-compgeo/geom"
 )
 
 // A Face points to the edges on its inner and

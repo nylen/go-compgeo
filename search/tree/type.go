@@ -2,7 +2,7 @@
 
 package tree
 
-import "github.com/200sc/go-compgeo/search"
+import "github.com/nylen/go-compgeo/search"
 
 // Type represents the underlying algorithm for updating points on
 // a dynamic binary search tree.

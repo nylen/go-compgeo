@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	compgeo "github.com/200sc/go-compgeo"
+	compgeo "github.com/nylen/go-compgeo"
 )
 
 func readIntLine(s *bufio.Scanner, l int) ([]int, error) {
